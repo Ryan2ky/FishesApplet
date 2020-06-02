@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a34a860b-a636-4af9-95a7-8b7c96f080cd" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzrOdwKoo89hKsCxQMpzK101AC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\FishesApplet\src\resources\image" />
+      <recent name="E:\IdeaProject\FishesApplet\src\resources\audio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Applet.Fishes">
+    <configuration name="Fishes" type="Applet">
+      <option name="HEIGHT" value="640" />
+      <option name="MAIN_CLASS_NAME" value="main.pers.xyd.applet.Main" />
+      <module name="FishesApplet" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GBK" />
+      <option name="WIDTH" value="1180" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.pers.xyd.applet.test" />
+      <module name="FishesApplet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.pers.xyd.applet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Applet.Fishes" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34a860b-a636-4af9-95a7-8b7c96f080cd" name="默认更改列表" comment="" />
+      <created>1589645731549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589645731549</updated>
+      <workItem from="1589645732994" duration="4761000" />
+      <workItem from="1589682212538" duration="8768000" />
+      <workItem from="1589696556593" duration="416000" />
+      <workItem from="1589697325212" duration="5829000" />
+      <workItem from="1589710059262" duration="8633000" />
+      <workItem from="1589723273489" duration="5963000" />
+      <workItem from="1589797153230" duration="13867000" />
+      <workItem from="1589812301537" duration="42000" />
+      <workItem from="1589812736697" duration="734000" />
+      <workItem from="1589813473758" duration="1000" />
+      <workItem from="1589814009112" duration="9875000" />
+      <workItem from="1589866404005" duration="18773000" />
+      <workItem from="1589905087974" duration="4019000" />
+      <workItem from="1589954329941" duration="388000" />
+      <workItem from="1590045625161" duration="3000" />
+      <workItem from="1590135201282" duration="496000" />
+      <workItem from="1590214858004" duration="13558000" />
+      <workItem from="1590249041641" duration="11719000" />
+      <workItem from="1590296021381" duration="1006000" />
+      <workItem from="1590297614338" duration="93000" />
+      <workItem from="1590297835348" duration="555000" />
+      <workItem from="1590298481296" duration="78000" />
+      <workItem from="1590303656314" duration="2997000" />
+      <workItem from="1590328653608" duration="6754000" />
+      <workItem from="1590472732514" duration="2860000" />
+      <workItem from="1591023429745" duration="2371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589646614005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589646614005" />
+    <state x="169" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589710548874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="169" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589710548874" />
+    <state x="606" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590251586571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590251586571" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1590258468835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590258468835" />
+    <state x="480" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589645941227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589645941227" />
+    <state x="240" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589804206485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="240" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1589804206485" />
+    <state x="361" y="71" key="#项目结构" timestamp="1589646573523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1589646573523" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589812340607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589812340607" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1591026007023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591026007023" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1591026007022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591026007022" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1591026007022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591026007022" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1591026007023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591026007023" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1589886622939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589886622939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1589886622939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589886622939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1589886622939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589886622939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1589886622939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589886622939" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1589710186597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589710186597" />
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590472733226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590472733226" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589712934389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1589712934389" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1590261439145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590261439145" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589700678773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589700678773" />
+  </component>
+</project>
